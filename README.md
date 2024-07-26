@@ -55,11 +55,8 @@ List of online cources that I've completed can be found [here](https://github.co
 **Quality Assurance Automation Engineer  (Apr 2021 – Nov 2022)**
 - Created from scratch an automated test framework on Python for Machine Learning solution. Suit of automated tests included functional tests for UI and back-end as well as performance and load tests. 
 - Automation coverage for the product was close to 100%. 
-- Tests were included in continuous integration pipelines to ensure both environment creation process and quality of the product. 
-
-<details>
-<summary>Click to see older jobs</summary>
-
+- Tests were included in continuous integration pipelines to ensure both environment creation process and quality of the product.
+- 
 **Quality Assurance Automation Engineer (Jul 2020 – Apr 2021)**
 - Supported a suite of back-end and integration tests for a set of applications for reinsurance company.
 
@@ -70,7 +67,10 @@ List of online cources that I've completed can be found [here](https://github.co
 - Participated in all stages on SDLC: from planning and estimations to release support and demo to clients. 
 
 **Quality Assurance Engineer  (Apr 2018 - Jul 2019)**
-- Provided manual testing for a video solution project. Tests were executed on a variety of devices and platforms: Android, iOS, PC, Mac, smart TVs, Chromecast. Test cases were adjusted to different screen resolutions and platforms' capabilities. 
+- Provided manual testing for a video solution project. Tests were executed on a variety of devices and platforms: Android, iOS, PC, Mac, smart TVs, Chromecast. Test cases were adjusted to different screen resolutions and platforms' capabilities.
+
+<details>
+<summary>Click to see older jobs</summary>
 
 ### Reksoft (Saint Petersburg, Russia)                                      2017 – 2018
 **Quality Assurance Automation Engineer**
