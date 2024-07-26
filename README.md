@@ -48,25 +48,25 @@ List of online cources that I've completed can be found [here](https://github.co
 
 ### C.T.Co (Riga, Latvia)                                      2020 – 2023
 
-**Lead Quality Assurance Automation Engineer Nov 2022 – Oct 2023**
+**Lead Quality Assurance Automation Engineer (Nov 2022 – Oct 2023)**
 - Executed functional testing, including test case design, manual testing and test automated on Java.
 - Maintained and enhanced continuous integration test pipelines in Jenkins, making them faster and more reliable. Nightly CI test pipeline was optimized and run 20% faster.
 
-**Quality Assurance Automation Engineer  Apr 2021 – Nov 2022**
+**Quality Assurance Automation Engineer  (Apr 2021 – Nov 2022)**
 - Created from scratch an automated test framework on Python for Machine Learning solution. Suit of automated tests included functional tests for UI and back-end as well as performance and load tests. 
 - Automation coverage for the product was close to 100%. 
 - Tests were included in continuous integration pipelines to ensure both environment creation process and quality of the product. 
 
-**Quality Assurance Automation Engineer Jul 2020 – Apr 2021**
+**Quality Assurance Automation Engineer (Jul 2020 – Apr 2021)**
 - Supported a suite of back-end and integration tests for a set of applications for reinsurance company.
 
 ### Accenture (Riga, Latvia)                                      2018 – 2020
  
-**Senior Quality Assurance Engineer   Aug 2019 - Jun 2020**
+**Senior Quality Assurance Engineer   (Aug 2019 - Jun 2020)**
 - Provided manual and automated testing for a web application.
 - Participated in all stages on SDLC: from planning and estimations to release support and demo to clients. 
 
-**Quality Assurance Engineer  Apr 2018 - Jul 2019**
+**Quality Assurance Engineer  (Apr 2018 - Jul 2019)**
 - Provided manual testing for a video solution project. Tests were executed on a variety of devices and platforms: Android, iOS, PC, Mac, smart TVs, Chromecast. Test cases were adjusted to different screen resolutions and platforms' capabilities. 
 
 ### Reksoft (Saint Petersburg, Russia)                                      2017 – 2018
