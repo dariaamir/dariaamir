@@ -75,7 +75,7 @@ List of online cources that I've completed can be found [here](https://github.co
 - Integrated these test within CI process, using Travis. Tests run after every merge to master.
 - Test results were automatically sent to a dedicated Slack channel, so development team was informed about code status as soon as possible.
 
-#### BeKitzur  (Saint Petersburg, Russia)                                      2016 – 2017
+### BeKitzur  (Saint Petersburg, Russia)                                      2016 – 2017
 **Quality Assurance Engineer**
 - Provided manual and automated testing of a web platform for advertising analytics and management.
 - Created manual test plans, based on input from management and developers. 
