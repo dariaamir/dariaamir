@@ -57,6 +57,9 @@ List of online cources that I've completed can be found [here](https://github.co
 - Automation coverage for the product was close to 100%. 
 - Tests were included in continuous integration pipelines to ensure both environment creation process and quality of the product. 
 
+<details>
+<summary>Click to see older jobs</summary>
+
 **Quality Assurance Automation Engineer (Jul 2020 – Apr 2021)**
 - Supported a suite of back-end and integration tests for a set of applications for reinsurance company.
 
@@ -92,6 +95,8 @@ List of online cources that I've completed can be found [here](https://github.co
 - Executed manual tests on a user management platform.
 - Used a variety of devices: PC, Bravia TV, Android phones and tablets, PSP, PS3 etc).
 - Participated in test case design.
+
+</details>
 
 ## CERTIFICATIONS 🏆
 - ISTQB® Certified Tester, Foundation Level
