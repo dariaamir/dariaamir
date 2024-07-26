@@ -26,8 +26,6 @@
   
 **Other:**  Jmeter / Postman / Tableau / Jira / Tosca 
 
-List of online cources that I've completed can be found [here](https://github.com/dariaamir/moocs)
-
 ##  LANGUAGES 🎏
 
 - Russian – Native (C2)
@@ -111,3 +109,5 @@ _2013–2015_
 Bachelor of Philosophy and Religious Studies
 _Saint Petersburg State University, Russia_
 _2008–2012_
+
+List of online cources that I've completed can be found [here](https://github.com/dariaamir/moocs)
