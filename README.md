@@ -56,7 +56,7 @@ List of online cources that I've completed can be found [here](https://github.co
 - Created from scratch an automated test framework on Python for Machine Learning solution. Suit of automated tests included functional tests for UI and back-end as well as performance and load tests. 
 - Automation coverage for the product was close to 100%. 
 - Tests were included in continuous integration pipelines to ensure both environment creation process and quality of the product.
-- 
+  
 **Quality Assurance Automation Engineer (Jul 2020 – Apr 2021)**
 - Supported a suite of back-end and integration tests for a set of applications for reinsurance company.
 
